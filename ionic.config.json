@@ -1,0 +1,7 @@
+{
+  "name": "BowlBuddy",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
